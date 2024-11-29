@@ -2,23 +2,40 @@
 Required Packages:
 
 numpy
+
 pytorch
+
 openai-clip
+
 kaolin
+
 trimesh
+
 matplotlib
+
 imageio
+
 joblib
+
 plotly
+
 pandas
+
 scikit-learn
+
 shapely
+
 pymeshlab
+
 cma
+
 scikit-image
+
 kaleido
+
 Cython
 
+=================================================================================================================================
 
 Then go to folder mesh_contain:
 cd mesh_contain
